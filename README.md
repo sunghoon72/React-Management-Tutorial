@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+## Management System
+This project is made for learning envrironment of web client and server. React, node.js, RDS in AWS are used for this project. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
