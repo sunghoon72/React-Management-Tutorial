@@ -20,7 +20,7 @@ table: {
   minWidth: 1080
 },
  progress: {
-    margin: theme.spacing.uint*2   
+    margin: theme.spacing.unit*2   
 }
 })
 
